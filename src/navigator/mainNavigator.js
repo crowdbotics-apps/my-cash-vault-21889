@@ -9,7 +9,6 @@ import EmailAuth2158262Navigator from '../features/EmailAuth2158262/navigator';
 import Settings3158261Navigator from '../features/Settings3158261/navigator';
 import SignIn24158260Navigator from '../features/SignIn24158260/navigator';
 import SignIn25158259Navigator from '../features/SignIn25158259/navigator';
-import SignIn26158258Navigator from '../features/SignIn26158258/navigator';
 
 /**
  * new navigators can be imported here
@@ -22,7 +21,6 @@ EmailAuth2158262: { screen: EmailAuth2158262Navigator },
 Settings3158261: { screen: Settings3158261Navigator },
 SignIn24158260: { screen: SignIn24158260Navigator },
 SignIn25158259: { screen: SignIn25158259Navigator },
-SignIn26158258: { screen: SignIn26158258Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
